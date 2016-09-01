@@ -1,0 +1,25 @@
+{
+    "type": "images",
+    "data": [
+        {
+            "image": "images\/lighthouseRockyHarbour_min.jpg",
+            "image-thumbnail": "images\/lighthouseRockyHarbour_min_thumb.jpg"
+        },
+        {
+            "image": "images\/norseVillage_min.jpg",
+            "image-thumbnail": "images\/norseVillage_min_thumb.jpg"
+        },
+        {
+            "image": "images\/signalHill_min.jpg",
+            "image-thumbnail": "images\/signalHill_min_thumb.jpg"
+        }
+    ],
+    "total": 6,
+    "per_page": 3,
+    "current_page": 2,
+    "last_page": 2,
+    "next_page_url": null,
+    "prev_page_url": "json/p1.json",
+    "from": 4,
+    "to": 6
+}
